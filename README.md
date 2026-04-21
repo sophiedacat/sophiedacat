@@ -22,8 +22,9 @@
 
 <br/>
 
-<h3 align="center" style="color:#1E90FF;">quote: </h3>
+<h3 align="center" style="color:#1E90FF;" </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-What consumes your mind controls your life. - Anonymous
+What consumes your mind controls your life.
 </p>
 <br/>
+Discord: elliieluvsu
