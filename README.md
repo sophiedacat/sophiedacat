@@ -24,7 +24,7 @@
 
 <h3 align="center" style="color:#1E90FF;" </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-What consumes your mind controls your life.
+  meow - some wise person
 </p>
 <br/>
 Discord: elliieluvsu
