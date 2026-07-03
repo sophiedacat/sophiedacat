@@ -27,4 +27,4 @@
   meow - some wise person
 </p>
 <br/>
-Discord: elliieluvsu
+Discord: .h6rny.
