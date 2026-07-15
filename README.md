@@ -24,7 +24,7 @@
 
 <h3 align="center" style="color:#1E90FF;" </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-  meow - some wise person
+  “It is better to offer no excuse than a bad one.” ― George Washington 
 </p>
 <br/>
 Discord: .h6rny.
