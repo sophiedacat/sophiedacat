@@ -1,5 +1,5 @@
 <h1 align="center">
-  hi, i'm <span style="color:#1E90FF;">ellii</span> 👋
+  hi, i'm <span style="color:#1E90FF;">ellie</span> 👋
 </h1>
 
 <br/>
@@ -24,7 +24,7 @@
 
 <h3 align="center" style="color:#1E90FF;" </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-  “It is better to offer no excuse than a bad one.” ― George Washington 
+  “I'm getting high 'cause I need to be up” ― jaydes (my goat)
 </p>
-<br/>
+ <br/>
 Discord: .h6rny.
