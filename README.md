@@ -19,6 +19,7 @@
 
 <h3 align="center" style="color:#1E90FF;" </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-  “I'm getting high 'cause I need to be up” ― jaydes (my goat)
+  AISD, I know u know who I am :p
+  
 </p>
 Discord: .h6rny.
