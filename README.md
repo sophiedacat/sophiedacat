@@ -20,6 +20,9 @@
 <h3 align="center" style="color:#1E90FF;" </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
   AISD, I know u know who I am :p
+  and uh, btw. i dont own a flipper zero 😭. cathack is my minecraft cheat source <img width="963" height="1047" alt="image" src="https://github.com/user-attachments/assets/f2e3af8b-c466-4733-bdcc-c1dceb86086f" />
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/26a298a1-31cd-4b47-8237-baec20f83027" />
+
   
 </p>
 Discord: .h6rny.
