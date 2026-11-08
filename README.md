@@ -1,24 +1,16 @@
 <h1 align="center">
-  hi, i'm <span style="color:#1E90FF;">sophiee</span> 👋
+  ⋆˙⟡ <span style="color:#FFB6C1;">sophiee</span> ⟡˙⋆
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sophiedacat&label=profile%20views&color=1E90FF&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=sophiedacat&label=views&color=FFB6C1&style=flat-square" alt="profile views"/>
 </p>
 
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sophiedacat&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/> </p>
-</br>
 
-<h3 align="center" style="color:#1E90FF;">tech & tools</h3>
-<p align="center">
-  <a href="https://github.com/sophiedacat" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp,python,windows,vscode,github,java" />
-  </a>
+<p align="center" style="font-style:italic; color:#d4a5a5; font-size: 13px;">
+  (｡•́︿•̀｡) it sucks not feeling loved lol ⋆｡°✩
 </p>
 
-<h3 align="center" style="color:#1E90FF;" </h3>
-<p align="center" style="font-style:italic; color:#bbb;">
-  it sucks not feeling loved lol  
+<p align="center" style="font-size: 12px; color: #888;">
+  Discord: <b>.h6rny.</b>
 </p>
-Discord: .h6rny.
